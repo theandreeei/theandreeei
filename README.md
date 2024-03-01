@@ -6,7 +6,7 @@ I'm a micro developer (15 y.o.) who learining Fullstack and Mobile dev.
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [Telegram](https://t.me/andreiotval)
 * 🧠  I'm learning Python, HTML, CSS, Kotlin and XML
-* 🌱  I'm proficient in Hardware
+* 🌱   I'm proficient in Hardware
 
 ### Portfolio
 
