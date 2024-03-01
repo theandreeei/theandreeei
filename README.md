@@ -30,6 +30,6 @@ I'm a micro developer (15 y.o.) who learining Fullstack and Mobile dev.
 
 <ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/andreiivanenji"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ipay.ua/ua/constructor/0ganalqq"><img src="https://www.ipay.ua/v4/frontend_v45/web/sources/default/img/logo-color.svg" width="150"/></a></li>
 
 </ul>
