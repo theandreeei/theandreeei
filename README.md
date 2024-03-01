@@ -10,7 +10,7 @@ I'm a micro developer (15 y.o.) who learining Fullstack and Mobile dev.
 
 ### Portfolio
 
-* 🧑‍💻 Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
+* 🧑‍💻  Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
 
 ### Skills
 
