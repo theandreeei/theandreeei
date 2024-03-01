@@ -8,7 +8,6 @@ I'm a micro developer (15 y.o.) who learining Fullstack and Mobile dev.
 * 🧠  I'm learning Python, HTML, CSS, Kotlin and XML
 * 🌱  I'm proficient in Hardware
 
-
 ### Portfolio
 
 * 🧑‍💻 Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
