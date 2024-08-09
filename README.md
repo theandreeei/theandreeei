@@ -7,14 +7,13 @@ I'm a micro developer (15 y.o.) who learining Fullstack and Mobile dev.
 * ✉️  You can contact me at [Telegram](https://t.me/wwenttyy)
 * 🧠  I'm learning Python, HTML, CSS, JavaScript, Kotlin and XML
 * 🌱  I'm proficient in Hardware
-* 🌐  Portfolio website: [Click here](https://andreiivanenko.pythonanywhere.com)
 
 
 ### Portfolio
 
 * 🧑‍💻  Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
 
-* 🌐  Portfolio website: [Click here](https://andreiivanenko.pythonanywhere.com)
+* 🌐  Portfolio website: [Open](https://andreiivanenko.pythonanywhere.com)
 
 ### Skills
 
