@@ -12,7 +12,7 @@ I'm a micro developer (15 y.o.) who learning Fullstack and Mobile dev.
 ### Portfolio
 
 * 🧑‍💻  Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
-* 🌐  Portfolio website: [Click here](https://andreiivanenko.pythonanywhere.com)
+*  🌐  Portfolio website: [Click here](https://andreiivanenko.pythonanywhere.com)
 
 ### Skills
 
