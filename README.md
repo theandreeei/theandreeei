@@ -14,7 +14,7 @@ I'm a micro developer (16 y.o.) who learning Fullstack and Machine Learning.
 * 🧑‍💻  Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
 * 🌐  Portfolio website (archived): [Click here](https://andreiivanenko.pythonanywhere.com)
 * 🌐  Shop "ElectroAssets Shop": [Click here](https://electroassets.com)
-* 🌐  FIRST COMMERCIAL: website for "Importera": [Click here](https://importera.in.ua)
+* 🌐   FIRST COMMERCIAL: website for "Importera": [Click here](https://importera.in.ua)
 
 
 ### Skills
