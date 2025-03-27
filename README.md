@@ -5,14 +5,17 @@ I'm a micro developer (15 y.o.) who learning Fullstack and Mobile dev.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [Telegram](https://t.me/wwenttyy)
-* 🧠  I'm learning Python, HTML, CSS, JavaScript, Kotlin and XML
+* 🧠  I know Python, Telebot, Django, DRF, HTML, CSS, SCSS, JavaScript, jQuery and learning React
 * 🌱  I'm proficient in Hardware
 
 
 ### Portfolio
 
 * 🧑‍💻  Hardware: [Google Photos](https://photos.app.goo.gl/ALM4RBEXHyR2DKSdA)
-* 🌐  Portfolio website: [Click here](https://andreiivanenko.pythonanywhere.com)
+* 🌐  Portfolio website (archived): [Click here](https://andreiivanenko.pythonanywhere.com)
+* 🌐  Shop "ElectroAssets Shop": [Click here](https://electroassets.com)
+* 🌐  FIRST COMMERCIAL: website for "Importera": [Click here](https://importera.in.ua)
+
 
 ### Skills
 
