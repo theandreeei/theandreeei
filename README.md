@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrei
 ==============================================================================================================================
 
-I'm a micro developer (15 y.o.) who learning Fullstack and Mobile dev.
+I'm a micro developer (16 y.o.) who learning Fullstack and Machine Learning.
 
 * 🌍  I'm based in Ukraine
 * ✉️  You can contact me at [Telegram](https://t.me/wwenttyy)
